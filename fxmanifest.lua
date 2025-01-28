@@ -1,9 +1,9 @@
 fx_version 'cerulean'
 game 'gta5'
 
-name ""
-author ""
-description ""
+name "sc_findatm"
+author "ScubeScripts"
+description "Find the nearest ATM"
 version "1.0.0"
 
 client_scripts {
